@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FoundationPress [![Build Status](https://travis-ci.org/olefredrik/FoundationPress.svg?branch=master)](https://travis-ci.org/olefredrik/FoundationPress)
 
 This is a WordPress starter theme based on Foundation 5 by Zurb. The purpose of FoundationPress, is to act as a small and handy toolbox that contains the essentials needed to build any design. FoundationPress is meant to be a starting point, not the final product. If you're looking for an all-in-one theme with built-in shortcodes, plugins, fancypancy portfolio templates or whatnot, I'm afraid you have to look elsewhere.
@@ -156,3 +157,6 @@ Pull requests are highly appreciated. More than three dozen amazing people have 
 
 * [Zurb Foundation Docs](http://foundation.zurb.com/docs/)
 * [WordPress Codex](http://codex.wordpress.org/)
+=======
+# venturelab
+>>>>>>> 1f6c07d1c3e19dfa116b2e46b011fa15bad79b0b
