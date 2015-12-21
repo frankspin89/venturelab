@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15588) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Homepage" sketch:type="MSArtboardGroup" transform="translate(-1426.000000, -27.000000)" fill="#DDDDDD">
+            <g id="Page-header" sketch:type="MSLayerGroup">
+                <path d="M1438.939,34.771 C1438.939,37.621 1436.621,39.939 1433.771,39.939 C1430.921,39.939 1428.584,37.621 1428.584,34.771 C1428.584,31.902 1430.902,29.584 1433.771,29.584 C1436.621,29.584 1438.939,31.921 1438.939,34.771 L1438.939,34.771 Z M1440.174,39.16 C1441.067,37.887 1441.542,36.329 1441.542,34.771 C1441.542,30.477 1438.065,27 1433.771,27 C1429.477,27 1426,30.477 1426,34.771 C1426,39.065 1429.477,42.542 1433.771,42.542 C1435.329,42.542 1436.887,42.048 1438.179,41.174 L1443.005,46 L1445,44.005 L1440.174,39.16 Z" id="Icon" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
