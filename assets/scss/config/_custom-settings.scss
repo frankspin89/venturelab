@@ -83,3 +83,9 @@ $medium-breakpoint: em-calc(1024);
 $topbar-breakpoint: em-calc(820);
 $large-breakpoint:  em-calc(1440);
 $xlarge-breakpoint: em-calc(1920);
+
+$thumb-border-style: solid;
+$thumb-border-width: 0px;
+$thumb-border-color: $white;
+$thumb-box-shadow: 0 0 0 0px rgba($black,.2);
+$thumb-box-shadow-hover: 0 0 0px 0px rgba($primary-color,0.5);

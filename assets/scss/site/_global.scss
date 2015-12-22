@@ -151,6 +151,14 @@ img.alignright {
 	padding: rem-calc(80 40 40);
 }
 
+.text-inner {
+	padding: rem-calc(40 25 25);
+}
+
+.outer-row:nth-child(even) {
+
+}
+
 
 h2.large {
 	font-size: rem-calc(60);

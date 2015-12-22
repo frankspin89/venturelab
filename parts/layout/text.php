@@ -20,7 +20,7 @@
 <?php if(get_sub_field('text')) : ?>
   <div class="<?php echo $columnClass; ?> columns text-<?php echo $columnTextAlignment; ?>">
     <?php if($columnBgColor) : ?>
-      <div class="inner bg-<?php echo $columnBgColor; ?>">
+      <div class="inner  bg-<?php echo $columnBgColor; ?>">
     <?php else : ?>
         <div class="inner">
     <?php endif; ?>
