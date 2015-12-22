@@ -115,6 +115,12 @@ img.alignright {
 
 }
 
+
+.top-bar-container.contain-to-grid .top-bar {
+max-width: rem-calc(1720px);
+left: - rem-calc(15px);
+}
+
 .bg-primary, .bg-secondary {
 	h1,h2,h3,h4,h5 {
 		color: white;
@@ -130,6 +136,7 @@ img.alignright {
 	}
 
 }
+
 
 .bg-secondary {
 	background-color: $secondary-color;
@@ -159,6 +166,19 @@ img.alignright {
 
 }
 
+.event-slider {
+	margin-bottom: rem-calc(80px);
+}
+
+.event-item {
+	background-color: white;
+	border-left: 10px solid $smoke;
+	border-right: 10px solid $smoke;
+}
+
+.read-more {
+	text-transform: uppercase;;
+}
 
 h2.large {
 	font-size: rem-calc(60);

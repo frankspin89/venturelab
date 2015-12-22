@@ -17,5 +17,17 @@ jQuery(document).foundation();
       autoplaySpeed: 4000,
     });
 
+    $('.event-slider').slick({
+      infinite: true,
+      slidesToShow: 5,
+      slidesToScroll: 1,
+      speed: 500,
+      dots: false,
+      autoplay: true,
+      autoplaySpeed: 4000,
+    });
+
+
+
   });
 }());
